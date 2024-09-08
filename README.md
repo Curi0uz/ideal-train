@@ -1,0 +1,1 @@
+Hello this file is my first readmi text, in this new repository I add 2 files .py
